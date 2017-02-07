@@ -7,4 +7,3 @@ Technologies Used
 ● D3.js ( US map, split by different counties ) 
 ● Sentiment Analysis API (Stanford CoreNLP ) 
 ● Flask ( Python web framework - Displays tweet stream on maps) 
-● Referred “Udacity’s Real-Time Analytics with Storm” course for storm materials and open source examples.
